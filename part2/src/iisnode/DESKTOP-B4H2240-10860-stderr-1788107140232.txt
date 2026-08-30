@@ -1,0 +1,8 @@
+(node:10860) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Application has thrown an uncaught exception and is terminated:
+ReferenceError: __dirname is not defined
+    at Server.<anonymous> (file:///C:/inetpub/lab1/laboratorio1/src/servidor.js:6:31)
+    at Server.emit (node:events:514:20)
+    at parserOnIncoming (node:_http_server:1394:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:125:17)

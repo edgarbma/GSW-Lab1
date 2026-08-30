@@ -1,0 +1,1 @@
+✅ Servidor corriendo en el puerto \\.\pipe\19332db8-0a6f-4fe6-84ed-9d72290a8903
